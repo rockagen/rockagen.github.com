@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://rockagen.github.com/blog/2012/06/27/bloging-like-a-hacker/</loc>
+        <lastmod>2014-06-16T15:27:12+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rockagen.github.com/blog/2013/05/04/git-branching-model/</loc>
+        <lastmod>2014-06-16T15:27:12+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rockagen.github.com/blog/2013/08/04/git-cheat-sheet/</loc>
+        <lastmod>2014-06-16T15:27:12+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rockagen.github.com/blog/archives/</loc>
+        <lastmod>2014-06-16T15:27:12+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rockagen.github.com/</loc>
+        <lastmod>2014-06-16T15:27:12+08:00</lastmod>
+    </url>
+</urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: linux | ROCKAGEN]]></title>
+  <link href="http://rockagen.github.com/blog/categories/linux/atom.xml" rel="self"/>
+  <link href="http://rockagen.github.com/"/>
+  <updated>2014-08-05T10:11:01+08:00</updated>
+  <id>http://rockagen.github.com/</id>
+  <author>
+    <name><![CDATA[ra]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Git cheat-sheet]]></title>
+    <link href="http://rockagen.github.com/blog/2013/08/04/git-cheat-sheet/"/>
+    <updated>2013-08-04T20:16:00+08:00</updated>
+    <id>http://rockagen.github.com/blog/2013/08/04/git-cheat-sheet</id>
+    <content type="html"><![CDATA[<p><a href="http://www.git-tower.com/blog/git-cheat-sheet-detail//"><img src="https://dl.dropboxusercontent.com/u/41178008/cheat-sheet-large01.png" title="Git-cheat-sheet-detail" alt="Git-cheat-sheet-detail" /></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Git branching model]]></title>
+    <link href="http://rockagen.github.com/blog/2013/05/04/git-branching-model/"/>
+    <updated>2013-05-04T01:28:00+08:00</updated>
+    <id>http://rockagen.github.com/blog/2013/05/04/git-branching-model</id>
+    <content type="html"><![CDATA[<p><a href="http://nvie.com/posts/a-successful-git-branching-model/"><img src="http://nvie.com/img/2009/12/Screen-shot-2009-12-24-at-11.32.03.png" title="A successful Git branching model" alt="A successful Git branching model" /></a></p>
+]]></content>
+  </entry>
+  
+</feed>
