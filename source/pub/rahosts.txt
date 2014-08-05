@@ -1,0 +1,1 @@
+mv hosts hosts.save && grep -E "www|translate|gstatic|apis|mail|clients|talk|calendar|map|encrypted|chrome|group|analytics|blogger|blogspot|driver|doc|account|appengine|wordpress|gravatar|dropbox|github|wikipedia|yimg|yahoo|flickr" hosts.save > host
